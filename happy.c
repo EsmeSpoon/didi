@@ -7,5 +7,7 @@ int main(int argc, char **argv){
   if(pid==0){
 	printf("sad猪")；
   }
+  else if(pid!=0){
+	  printf("this is successful pulling");
 does it work?
 }
